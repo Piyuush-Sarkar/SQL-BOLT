@@ -1,4 +1,4 @@
-# SQLBolt - Lesson  Answers
+# SQLBolt - Lesson  3 Answers
 
 ## Exercise 1: Find all the Toy Story movies 
 
