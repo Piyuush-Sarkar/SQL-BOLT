@@ -1,4 +1,4 @@
-# SQLBolt - Lesson 15 Answers
+# SQLBolt - Lesson 17 Answers
 
 ## Exercise 1: Add a column named Aspect_ratio with a FLOAT data type to store the aspect-ratio each movie was released in.
 
